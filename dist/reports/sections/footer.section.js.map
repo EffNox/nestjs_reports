@@ -1,0 +1,1 @@
+{"version":3,"file":"footer.section.js","sourceRoot":"","sources":["../../../src/reports/sections/footer.section.ts"],"names":[],"mappings":";;;AAEO,MAAM,gBAAgB,GAAG,CAAC,WAAW,EAAE,SAAS,EAAW,EAAE,CAAC,CAAC;IAClE,IAAI,EAAE,QAAQ,WAAW,OAAO,SAAS,EAAE;IAC3C,IAAI,EAAE,IAAI;IACV,SAAS,EAAE,OAAO;IAClB,MAAM,EAAE,CAAC,EAAE,EAAE,EAAE,CAAC;CACnB,CAAC,CAAA;AALW,QAAA,gBAAgB,oBAK3B"}
